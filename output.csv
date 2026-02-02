@@ -1,0 +1,11 @@
+Country,Sex,Age,Height,Weight,BMI,HIV status,Diabetes status,Smoked in last week,Prior TB,Hemoptysis,Heart rate,Temperature,Weight loss,TB Classification Label,CAD4TB score,qXR score,Chest X-ray interpretation
+PH,Female,43,151.0,42.4000015258789,18.5956764221191,Negative,Non Diabetic,Yes,Yes,No,62,36.7000007629395,Yes,TB Positive,.,.,Abnormal
+PH,Female,54,144.0,44.0999984741211,21.2673606872559,Negative,Diabetic,No,Yes,Yes,101,36.7000007629395,Yes,TB Positive,.,.,Abnormal
+PH,Female,26,150.0,52.2000007629395,23.2000007629395,Negative,Non Diabetic,No,No,Yes,106,36.7999992370606,No,TB Positive,.,.,Abnormal
+PH,Female,53,146.0,36.0,16.8887214660645,Negative,Non Diabetic,No,No,No,86,36.7999992370606,Yes,TB Positive,.,.,Abnormal
+PH,Female,39,146.0,40.2999992370606,18.9059867858887,Negative,Non Diabetic,No,No,No,63,36.7000007629395,Yes,TB Positive,.,.,Abnormal
+PH,Female,36,151.0,45.0,19.7359771728516,Negative,Diabetic,No,No,Yes,113,36.0,Yes,TB Positive,.,.,Abnormal
+PH,Female,48,153.0,52.0,22.2136783599854,Negative,Diabetic,Yes,No,No,93,36.7000007629395,Yes,TB Positive,.,.,Abnormal
+PH,Female,44,154.5,51.5,21.57497215271,Negative,Diabetic,No,No,No,101,36.4000015258789,Yes,TB Positive,.,.,Abnormal
+PH,Female,49,153.0,54.7999992370606,23.4097995758057,Negative,Diabetic,No,No,Yes,100,36.5999984741211,Yes,TB Positive,.,.,Abnormal
+PH,Female,77,160.0,53.5,20.8984375,Negative,Diabetic,No,No,No,72,36.7000007629395,No,TB Positive,.,.,Normal

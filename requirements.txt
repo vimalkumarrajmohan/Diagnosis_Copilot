@@ -1,0 +1,10 @@
+groq == 0.18.0
+pyyaml == 6.0.2
+crewai 
+# pandasai
+streamlit == 1.42.2
+transformers == 4.49.0
+crewai[tools] 
+streamlit-chat == 0.1.1
+scikit-learn == 1.6.1
+
